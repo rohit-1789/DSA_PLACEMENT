@@ -1,0 +1,3 @@
+// Convert int to String using String.valueOf  
+        String strNumber = String.valueOf(number); 
+

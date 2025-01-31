@@ -1,0 +1,3 @@
+Another way to count digits of number
+*************************************
+    Take log base 10 of that number and then add one to it and typecast to integer.
